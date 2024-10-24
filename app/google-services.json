@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1023524341026",
+    "firebase_url": "https://aniauxfinal-default-rtdb.firebaseio.com",
+    "project_id": "aniauxfinal",
+    "storage_bucket": "aniauxfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023524341026:android:2b9f8feb6281d3c86f117b",
+        "android_client_info": {
+          "package_name": "com.smartherd.aniaux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASaRc_cn4leadgQqGiv5lmYCzlPlrJm0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
